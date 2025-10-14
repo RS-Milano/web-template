@@ -1,0 +1,1 @@
+Web fullstack template (FastAPI, PostgreSQL, Vue3)
